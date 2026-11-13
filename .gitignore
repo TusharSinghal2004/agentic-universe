@@ -6,6 +6,7 @@ __pycache__/
 *.sqlite*
 data/
 data_large/
-reports/
+/reports/
+/reports_large/
 final_state.csv
 .pytest_cache/
